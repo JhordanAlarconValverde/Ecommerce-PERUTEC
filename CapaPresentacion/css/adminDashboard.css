@@ -1,0 +1,123 @@
+﻿
+.home-section {
+    position: relative;
+    background: var(--homeSectionBgColor);
+    width: 100%;
+    height: 100vh;
+    width: calc(100%-260px);
+    transition: all 0.5s ease;
+}
+
+.sidebar.close ~ .home-section {
+    width: calc(100%-78px);
+}
+
+.home-section .home-content {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+    .home-section .home-content .fa-bars, .home-section .home-content .text {
+        color: var(--sidebarBgColor);
+        font-size: 35px;
+    }
+
+    .home-section .home-content .fa-bars {
+        margin: 0 20px;
+        cursor: pointer;
+    }
+
+.home-section .home-user-welcome {
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+    .home-section .home-user-welcome .home-content-profileimg {
+        width: 65px;
+        height: 60px;
+        border-radius: 200px;
+        margin-right: 15px;
+    }
+
+    .home-section .home-user-welcome .welcome-text {
+        font-size: 1.5rem;
+    }
+
+
+.home-section .home-content .text {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.txtResumen {
+    padding-left: 50px;
+    font-size: 25px;
+    font-weight: 6ECEFFF00;
+}
+
+.analitycs-section {
+    background: #F4F7FA;
+    width: 100%;
+}
+
+    .analitycs-section .analytics-content {
+        /*background: #F2F4FF;*/
+        margin: 0 20px;
+        border-radius: 20px;
+    }
+
+        .analitycs-section .analytics-content .analytics-content-row {
+            text-align: center;
+            padding: 30px 30px;
+        }
+
+            .analitycs-section .analytics-content .analytics-content-row .analytics {
+                padding: 30px 10px;
+                background: #fff;
+                border-radius: 20px;
+                box-shadow: 5px 5px 5px #c9cbce;
+            }
+
+    .analitycs-section .analytics-chart {
+        display: flex;
+        justify-content: center;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 20px;
+        margin-left: 20px;
+        box-shadow: 2px 2px 5px #c9cbce;
+        /*transition: 0.5s ease;*/
+    }
+
+    /*.analitycs-section .analytics-chart:hover{
+    transform: scale(1.02);
+}*/
+
+    .analitycs-section .recent-sells {
+        padding: 20px 20px;
+        background: #fff;
+        border-radius: 20px;
+        margin-right: 10px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }
+
+    .analitycs-section .analytics-chartPie {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 20px;
+        margin-right: 20px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }
+
+    .analitycs-section .table-reports {
+        padding: 20px 20px;
+        background-color: white;
+        border-radius: 20px;
+        margin: 20px 0px;
+        margin-left: 15px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }

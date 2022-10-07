@@ -1,0 +1,235 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="CapaPresentacion.Administrador.Admin" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Dashboard</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="Stylesheets" runat="server">
+        <link rel="stylesheet" href="../css/adminMaster.css" />
+    </asp:ContentPlaceHolder>
+    <link href="libraries/Bootrstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="libraries/FontAwesome/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/adminMaster.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="sidebar position-fixed" style="height: 100vh;">
+                <div class="logo-details">
+                    <i class="fas fa-desktop"></i>
+                    <span class="logo_name">PeruTec</span>
+                </div>
+
+                <ul class="nav-links">
+                    <%
+                            int codCargo = (int)Session["codCargo"];
+                            if (codCargo == 1)
+                            {
+                                Response.Write(
+                                    "<li>" +
+                                        "<a href='AdminDashboard.aspx'>" +
+                                            "<i class='fas fa-tachometer-alt'></i>" +
+                                            "<span class='link_name'>Dashboard</span>" +
+                                        "</a>" +
+
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='AdminDashboard.aspx'>Dashboard</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                    "</li>" +
+                                    "<li>" +
+                                        "<div class='iocn-link'><a href='#'>" +
+                                            "<i class='fas fa-id-badge'></i>" +
+                                            "<span class='link_name'>Empleados</span>" +
+                                            "</a><i class='fas fa-caret-down arrow'></i>" +
+                                        "</div>" +
+
+                                        "<ul class='sub-menu'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='#'>Empleados</a>" +
+                                            "</li>" +
+                                            "<li>" +
+                                                "<a href='AdminEmpleadosVendedor.aspx'>Vendedores</a>" +
+                                            "</li>" +
+                                            "<li>" +
+                                                "<a href='AdminEmpleadosRepartidor.aspx'>Repartidores</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                     "</li>" +
+                                     "<li>" +
+                                        "<a href='#'>" +
+                                            "<i class='far fa-chart-bar'></i>" +
+                                            "<span class='link_name'>Estadísticas</span>" +
+                                        "</a>" +
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='#' >Estadísticas</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                     "</li>" +
+                                     "<li>" +
+                                        "<div class='iocn-link'>" +
+                                            "<a href='#'>" +
+                                                "<i class='fas fa-clipboard-list'></i>" +
+                                                "<span class='link_name'>Productos</span>" +
+                                            "</a>" +
+                                            "<i class='fas fa-caret-down arrow'></i>" +
+                                        "</div>" +
+                                        "<ul class='sub-menu'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='#'>Productos</a>" +
+                                            "</li>" +
+                                            "<li>" +
+                                                "<a href='AdminProdDisponibles.aspx'>Disponibles</a>" +
+                                            "</li>" +
+                                            "<li>" +
+                                                "<a href='AdminProdSinStock.aspx'>Fuera de stock</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                     "</li>" +
+                                     "<li>" +
+                                        "<a href='AdminClientes.aspx'>" +
+                                            "<i class='fas fa-users'></i> " +
+                                            "<span class='link_name'>Clientes</span>" +
+                                        "</a>" +
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='#'>Cliente</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                     "</li>" +
+                                     "<li>" +
+                                        "<a href='AdminPedidos.aspx'>" +
+                                            "<i class='fas fa-cash-register'></i>" +
+                                            "<span class='link_name'>Pedidos</span>" +
+                                        "</a>" +
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='AdminPedidos.aspx' >Pedidos</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                     "</li>" +
+                                    "<li>" +
+                                        "<a href='AdminMiPerfil.aspx'>" +
+                                            "<i class='fas fa-user-alt'></i>" +
+                                            "<span class='link_name'>Perfil</span>" +
+                                        "</a>" +
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='AdminMiPerfil.aspx'>Perfil</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                    "</li>"
+                                            );
+                            }
+                            else if (codCargo == 2)
+                            {
+                                Response.Write(
+                                    "<li>" +
+                                        "<div class='iocn-link'>" +
+                                            "<a href='#'>" +
+                                                "<i class='fas fa-clipboard-list'></i>" +
+                                                "<span class='link_name'>Productos</span>" +
+                                            "</a>" +
+                                            "<i class='fas fa-caret-down arrow'></i>" +
+                                        "</div>" +
+                                        "<ul class='sub-menu'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='#'>Productos</a>" +
+                                            "</li>" +
+                                            "<li>" +
+                                                "<a href='AdminProdDisponibles.aspx'>Disponibles</a>" +
+                                            "</li>" +
+                                            "<li>" +
+                                                "<a href='#'>Fuera de stock</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                    "</li>" +
+                                    "<li>" +
+                                        "<a href='AdminClientes.aspx'>" +
+                                            "<i class='fas fa-users'></i> " +
+                                            "<span class='link_name'>Clientes</span>" +
+                                        "</a>" +
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='#' >Cliente</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                    "</li>"
+                                            );
+                            }
+                            else if (codCargo == 3)
+                            {
+                                Response.Write("" +
+                                    "<li>" +
+                                        "<a href='AdminPedidos.aspx'>" +
+                                            "<i class='fas fa-cash-register'></i>" +
+                                            "<span class='link_name'>Pedidos</span>" +
+                                        "</a>" +
+                                        "<ul class='sub-menu blank'>" +
+                                            "<li>" +
+                                                "<a class='link_name' href='AdminPedidos.aspx'>Pedidos</a>" +
+                                            "</li>" +
+                                        "</ul>" +
+                                    "</li>"
+                                            );
+                            }
+
+                    %>
+
+                    <li>
+                        <div class="profile-details mt-4">
+                            <div class="profile-content">
+                                <img src="../img/user.jpg" alt="profile">
+                            </div>
+                            <div style="overflow: hidden">
+                                <div class="profile_name"><%Response.Write(Session["nombre"] + " " + Session["Apellido"]); %></div>
+                                <%
+                                        if (codCargo == 1)
+                                        {
+                                            Response.Write("<div class='job'>Administrador</div>");
+                                        }
+                                        else if (codCargo == 2)
+                                        {
+                                            Response.Write("<div class='job'>Vendedor</div>");
+                                        }
+                                        else if (codCargo == 3)
+                                        {
+                                            Response.Write("<div class='job'>Repartidor</div>");
+                                        }
+                                %>
+                            </div>
+                            <i class='fas fa-caret-down arrow'></i>
+                        </div>
+                        <ul class='sub-menu mt-1'>
+                            <li>
+                                <asp:Button ID="btnCerrarSesion" runat="server" Text="Cerrar Sesion" CssClass="btnCerrarSesion" OnClick="btnCerrarSesion_Click" />
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <script>
+        let arrow = document.querySelectorAll(".arrow");
+        for (var i = 0; i < arrow.length; i++) {
+            arrow[i].addEventListener("click", (e) => {
+                let arrowParent = e.target.parentElement.parentElement;
+                arrowParent.classList.toggle("showMenu");
+            });
+        }
+
+        let sidebar = document.querySelector(".sidebar");
+        let sidebarBtn = document.querySelector(".fa-bars");
+        sidebarBtn.addEventListener("click", () => {
+            sidebar.classList.toggle("close");
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+﻿
+.home-section {
+    position: relative;
+    background: var(--homeSectionBgColor);
+    transition: all 0.5s ease;
+    margin-left: 270px;
+}
+
+.sidebar.close ~ .home-section {
+    margin-left: 78px;
+}
+
+.home-section .home-content {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-left: -5px;
+}
+
+    .home-section .home-content .fa-bars, .home-section .home-content .text {
+        color: var(--sidebarBgColor);
+        font-size: 35px;
+    }
+
+    .home-section .home-content .fa-bars {
+        margin: 0 20px;
+        cursor: pointer;
+    }
+
+.home-section .home-user-welcome {
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+    .home-section .home-user-welcome .home-content-profileimg {
+        width: 65px;
+        height: 60px;
+        border-radius: 200px;
+        margin-right: 15px;
+    }
+
+    .home-section .home-user-welcome .welcome-text {
+        font-size: 1.5rem;
+    }
+
+
+.home-section .home-content .text {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.txtResumen {
+    padding-left: 50px;
+    font-size: 25px;
+    /*font-weight: 6ECEFFF00;*/
+}
+
+.analitycs-section {
+    background: #F4F7FA;
+    width: 100%;
+    margin-left: -5px;
+}
+
+    .analitycs-section .analytics-content {
+        margin: 0 20px;
+        border-radius: 20px;
+    }
+
+        .analitycs-section .analytics-content .analytics-content-row {
+            text-align: center;
+            padding: 30px 30px;
+        }
+
+            .analitycs-section .analytics-content .analytics-content-row .analytics {
+                padding: 30px 10px;
+                background: #fff;
+                border-radius: 20px;
+                box-shadow: 5px 5px 5px #c9cbce;
+            }
+
+    .analitycs-section .analytics-chart {
+        display: flex;
+        justify-content: center;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 20px;
+        margin-left: 20px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }
+
+    .analitycs-section .recent-sells {
+        padding: 20px 20px;
+        background: #fff;
+        border-radius: 20px;
+        margin-right: 10px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }
+
+    .analitycs-section .analytics-chartPie {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 20px;
+        margin-right: 20px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }
+
+    .analitycs-section .table-reports {
+        padding: 20px 20px;
+        background-color: white;
+        border-radius: 20px;
+        margin: 20px 0px;
+        margin-left: 15px;
+        box-shadow: 2px 2px 5px #c9cbce;
+    }

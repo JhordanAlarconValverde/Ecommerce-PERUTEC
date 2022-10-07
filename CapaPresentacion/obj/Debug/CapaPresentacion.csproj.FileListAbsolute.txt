@@ -1,0 +1,333 @@
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Antlr3.Runtime.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaNegocios.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\System.Web.Optimization.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\WebGrease.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaNegocios.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\System.Web.Optimization.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Antlr3.Runtime.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OOXML.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OpenXml4Net.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OpenXmlFormats.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\BouncyCastle.Crypto.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OOXML.xml
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.Shared.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.Web.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\stdole.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaPresentacion\bin\itextsharp.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Antlr3.Runtime.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaNegocios.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportSource.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.Shared.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.Web.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\itextsharp.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OOXML.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OpenXml4Net.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OpenXmlFormats.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\System.Web.Optimization.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\WebGrease.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\stdole.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaNegocios.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\BouncyCastle.Crypto.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OOXML.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\System.Web.Optimization.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Antlr3.Runtime.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Antlr3.Runtime.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaNegocios.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportSource.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.Shared.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.Web.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\itextsharp.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OOXML.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OpenXml4Net.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OpenXmlFormats.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\System.Web.Optimization.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\WebGrease.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\stdole.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaNegocios.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\BouncyCastle.Crypto.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\NPOI.OOXML.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\System.Web.Optimization.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Antlr3.Runtime.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

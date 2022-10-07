@@ -1,0 +1,370 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="index.master.cs" Inherits="CapaPresentacion.index" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Pagina de Inicio</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="Stylesheets" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="css/indexMaster.css" />
+    <link href="libraries/Bootrstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="libraries/fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="libraries/swriper/swiper-bundle.min.css" rel="stylesheet" />
+  
+</head>
+<body>
+    <style>
+        .ddlCategoria {
+            background: #353E60;
+            outline: none;
+            border: none;
+            color: #fff;
+            width: 50%;
+            text-align: center;
+            padding-right: -8px;
+        }
+    </style>
+    <form id="form1" runat="server">
+            <header style="width:100%;">
+                <div class="col-sm-container-fluid">
+                <div style="background-color: #2A314B;">
+                    <div class="container" id="primer-menu">
+                        <div class="row">
+                            <div class="col-md-5 d-flex justify-content-lg-between justify-content-sm-start col-propiedades">
+                                <div>
+                                    <i class="fas fa-phone-alt"></i>
+                                    <span style="margin-right: 20px;">999-999-999</span>
+                                </div>
+                                <div>
+                                    <i class="fas fa-comment-alt"></i>
+                                    <span>Email: ventas@perutec.com</span>
+                                </div>
+                            </div>
+                            <ul class="col-md-7 d-flex justify-content-sm-center" id="menu-list">
+                                <li><a href="Nosotros.aspx" id="nosotros" class="a_link">Nosotros</a></li>
+                                <li><a href="NuestrosLocales.aspx" id="nuestrosLocales" class="a_link">Nuestros locales</a></li>
+                                <li><a href="Contacto.aspx" id="contacto" class="a_link">Contacto</a></li>
+
+                                <%
+                                    if (Session["nombre"] != null)
+                                    {
+                                        Response.Write("<li><a id='miperfil' href='MiPerfil.aspx'>Mi Perfil</a></li>" +
+                                                        "<li><a id='cerrarSesion' href='Index.aspx?status=logout'>Cerrar Sesión</a></li>");
+                                    }
+                                    else
+                                    {
+                                        Response.Write("<li><a href='Registro.aspx' id='registrarse'>Registrarse</a></li>" +
+                                        "<li><a href='login.aspx' id='iniciarSesion'>Iniciar sesión</a></li>");
+                                    }
+                                %>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+                <div class="container-sm-fluid" style="background-color: #353E60;">
+   
+                    <div class="container" id="segundo-menu" style="padding-bottom: 5px;">
+                        <div class="row d-flex align-items-center justify-content-sm-center justify-content-lg-center">
+                            <div class="col-sm-3 col-lg-3 text-lg-center text-sm-start">
+                                <img class="img-logo" src="img/LogoB.png" style="cursor:pointer;width:60%;"/>
+                            </div>
+                            
+                            <div class="col-lg-6 col-sm-6 div-search" style="padding: 0">
+                                <div id="busqueda">
+                                    <div class="d-flex justify-content-center">
+                                        <asp:DropDownList ID="ddlCategoriaProducto" runat="server" CssClass="ddlCategoria"></asp:DropDownList>
+                                        <asp:TextBox ID="txtBuscarProducto" CssClass="input-busqueda" placeholder="Ingresar producto" runat="server" AutoCompleteType="Disabled"></asp:TextBox>
+                                        <asp:LinkButton ID="lbuttonBusqueda" runat="server" CssClass="btn btn-primary btn-busqueda" OnClick="lbuttonBusqueda_Click"><i class="fas fa-search"></i></asp:LinkButton>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Variable carrito de compras(session) -->
+                            <div class="col-lg-3 col-sm-1">
+                                <div class="d-flex justify-content-center align-items-center" id="contenedor-CarritoCompras">
+                                    <a style="background: #F75959; padding: 10px 10px; border-radius: 100px; border-color: #fff; border: solid; color: white;" id="btnCarritoCompras">
+                                        <i class="fas fa-shopping-cart fa-lg carrito-compras" style="width: 16px; height: 20px;"></i>
+                                    </a>
+
+                                    <div style="margin-left: 10px;">
+                                        <span>Carrito de compras</span><br />
+                                        
+                                        <span>items 
+                                            <%
+                                                if (Session["Carrito"] != null)
+                                                {
+                                                    // SI YA SE INICIO LA SESION CARRITO
+                                                    List<CapaEntidad.DetalleCarritosCE> Carrito = (List<CapaEntidad.DetalleCarritosCE>)Session["Carrito"];
+                                                    Response.Write(Carrito.Count);
+                                                }
+                                                else
+                                                {
+                                                    // SI TODAVIA NO SE INICIA ITEMS 0
+                                                    Response.Write("0");
+                                                }
+                                            %>
+                                        </span>
+
+                                        <span>
+                                            <%
+                                                if (Session["Carrito"] != null)
+                                                {
+                                                    // SI YA SE INICIO LA SESION CARRITO
+                                                    List<CapaEntidad.DetalleCarritosCE> Carrito = (List<CapaEntidad.DetalleCarritosCE>)Session["Carrito"];
+                                                    double total = Convert.ToDouble(Session["TotalCarrito"]);
+
+                                                    foreach (CapaEntidad.DetalleCarritosCE producto in Carrito)
+                                                    {
+                                                        total += producto.Subtotal;
+                                                    }
+
+                                                    Response.Write("- S/." + total);
+                                                    Session["MontoTotal"] = total;
+                                                }
+                                                else
+                                                {
+                                                    // SI TODAVIA NO SE INICIA DECLARA LA Session["TotalCarrito"] EN 0
+                                                    Session["TotalCarrito"] = 0;
+                                                    Response.Write("S/.0.00");
+                                                }
+                                            %>
+                                        </span>
+                                    </div>
+
+                                    <div id="prodCarritoCompras">
+                                        <br>
+                                        <div class="table-responsive">
+                                            <table class="table table-hover text-center">
+                                                <tr>
+                                                    <th>Producto</th>
+                                                    <th>Precio</th>
+                                                    <th>Cantidad</th>
+                                                    <th>Subtotal</th>
+                                                </tr>
+                                                <%
+                                                    if (Session["Carrito"] != null)
+                                                    {
+                                                        // SI LA SESION CARRITO YA HA SIDO CREADA
+                                                        List<CapaEntidad.DetalleCarritosCE> Carrito = (List<CapaEntidad.DetalleCarritosCE>)Session["Carrito"];
+
+                                                        foreach (CapaEntidad.DetalleCarritosCE producto in Carrito)
+                                                        {
+                                                            Response.Write("<tr>" +
+                                                                           "<td>" + producto.ProductoCE.Nombre + "</td>" +
+                                                                           "<td>" + producto.ProductoCE.Precio + "</td>" +
+                                                                           "<td>" + producto.CantidadProducto + "</td>" +
+                                                                           "<td>S/" + producto.Subtotal + "</td>" +
+                                                                           "</tr>");
+                                                        }
+                                                    }
+                                                    else
+                                                    {
+                                                        // SI LA SESION CARRITO TODAVIA NO HA SIDO CREADA
+                                                        Response.Write("<br /><div class='d-flex justify-content-sm-between'>" +
+                                                                       "<span>Todavia no ha seleccionado productos</span></div><br>");
+                                                    }
+                                                %>
+                                            </table>
+                                        </div>
+                                        <div>
+                                            <asp:Button ID="btnComprarCarrito" CssClass="btn btn-primary w-100 mb-1" runat="server" Text="Comprar" OnClick="btnComprarCarrito_Click" />
+                                            <%--<asp:Button ID="btnVerCarrito" CssClass="btn btn-success w-100" runat="server" Text="Ver Carrito" OnClick="btnVerCarrito_Click" />--%>
+                                            <!--<a class="btn btn-primary w-100 mb-1" href="CompraCarrito.aspx">Comprar</a>
+                                            <a class="btn btn-success w-100" href="#">Ver Carrito</a>-->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        </div>
+                <div style="background-color: #353E60;">
+                    <div class="container" id="menu-primer">
+                        <div class="row">
+                            <div class="d-flex justify-content-center">
+                                <ul id="list-menu">
+                                    <li><a href="index.aspx" id="inicio">Inicio</a></li>
+                                    <li><a href="Productos.aspx" id="productos">Productos</a></li>
+                                    <li><a href="#!" id="ofertas">Ofertas</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <footer class="text-center text-white" style="background-color: #353E60;">
+
+                <!-- Grid container -->
+                <div class="container p-4">
+
+                    <!-- Section: Social media -->
+                    <section class="mb-4">
+
+                        <!-- Facebook -->
+                        <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/" title="Facebook" target="_blank" role="button"><i class="fab fa-facebook-f"></i></a>
+
+                        <!-- Twitter -->
+                        <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/?lang=es" title="Twitter" target="_blank" role="button"><i class="fab fa-twitter"></i></a>
+
+                        <!-- Google -->
+                        <a class="btn btn-outline-light btn-floating m-1" href="https://www.google.com/" title="Google" target="_blank" role="button"><i class="fab fa-google"></i></a>
+
+                        <!-- Instagram -->
+                        <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/" title="Instagram" target="_blank" role="button"><i class="fab fa-instagram"></i></a>
+                    </section>
+
+                    <!-- Section: Text -->
+                    <section class="mb-4">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
+                            repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
+                            eum harum corrupti dicta, aliquam sequi voluptate quas.
+                        </p>
+                    </section>
+
+                    <!-- Section: Links -->
+                    <section class="">
+
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                                <h5 class="text-uppercase">Links</h5>
+
+                                <ul class="list-unstyled mb-0">
+                                    <li>
+                                        <a href="#!" class="text-white">Link 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 3</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 4</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!--Grid column-->
+                            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                                <h5 class="text-uppercase">Links</h5>
+
+                                <ul class="list-unstyled mb-0">
+                                    <li>
+                                        <a href="#!" class="text-white">Link 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 3</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 4</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!--Grid column-->
+                            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                                <h5 class="text-uppercase">Links</h5>
+
+                                <ul class="list-unstyled mb-0">
+                                    <li>
+                                        <a href="#!" class="text-white">Link 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 3</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 4</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!--Grid column-->
+                            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                                <h5 class="text-uppercase">Links</h5>
+
+                                <ul class="list-unstyled mb-0">
+                                    <li>
+                                        <a href="#!" class="text-white">Link 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 3</a>
+                                    </li>
+                                    <li>
+                                        <a href="#!" class="text-white">Link 4</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Copyright -->
+                <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+                    © 2021 Copyright:
+                    <a class="text-white" href="https://mdbootstrap.com/">PeruTEC</a>
+                </div>
+
+            </footer>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+        <script>
+            $("#btnCarritoCompras").click(function (e) {
+                $("#prodCarritoCompras").toggle("slow", function () {
+                    // Animation complete.
+                });
+            })
+        </script>
+
+        <!-- Swiper JS -->
+        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+        <!-- Initialize Swiper -->
+        <script>
+            var swiper = new Swiper(".mySwiper", {
+                spaceBetween: 30,
+                centeredSlides: true,
+                loop: true,
+                autoplay: {
+                    delay: 2500,
+                    disableOnInteraction: false,
+                },
+                pagination: {
+                    el: ".swiper-pagination",
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: ".swiper-button-next",
+                    prevEl: ".swiper-button-prev",
+                },
+            });
+        </script>
+    </form>
+</body>
+</html>

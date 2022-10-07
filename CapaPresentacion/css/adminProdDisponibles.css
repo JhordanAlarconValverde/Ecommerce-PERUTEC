@@ -1,0 +1,31 @@
+﻿
+.home-section {
+    position: relative;
+    background: var(--homeSectionBgColor);
+    width: 100%;
+    height: 100vh;
+    width: calc(100%-260px);
+    transition: all 0.5s ease;
+}
+
+.sidebar.close ~ .home-section {
+    width: calc(100%-78px);
+}
+
+.home-section .home-content {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+    .home-section .home-content .fa-bars, .home-section .home-content .text {
+        color: var(--sidebarBgColor);
+        font-size: 35px;
+    }
+
+    .home-section .home-content .fa-bars {
+        margin: 0 20px;
+        cursor: pointer;
+    }
+
+

@@ -1,0 +1,28 @@
+﻿.home-section {
+    margin-right: 10px;
+    position: relative;
+    background: var(--homeSectionBgColor);
+    transition: all 0.5s ease;
+    margin-left: 270px;
+}
+
+.sidebar.close ~ .home-section {
+    margin-left: 78px;
+}
+
+.home-section .home-content {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-left: -5px;
+}
+
+    .home-section .home-content .fa-bars, .home-section .home-content .text {
+        color: var(--sidebarBgColor);
+        font-size: 35px;
+    }
+
+    .home-section .home-content .fa-bars {
+        margin: 0 20px;
+        cursor: pointer;
+    }

@@ -1,0 +1,137 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="CapaPresentacion.Administrador.Admin" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Dashboard</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="Stylesheets" runat="server">
+        <link rel="stylesheet" href="../css/adminMaster.css"/>
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/adminMaster.css"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="display: flex;flex-direction: row;">
+            <div class="sidebar">
+                <div class="logo-details">
+                    <i class="fas fa-desktop"></i>
+                    <span class="logo_name">PeruTec </span>
+                </div>
+                <ul class="nav-links">
+                    <li>
+                        <a href="AdminDashboard.aspx">
+                            <i class="fas fa-tachometer-alt"></i>
+                            <span class="link_name">Dashboard</span>
+                        </a>
+                        <ul class="sub-menu blank">
+                            <li><a class="link_name" href="AdminDashboard.aspx" >Dashboard</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <div class="iocn-link">
+                            <a href="#">
+                                <i class="fas fa-clipboard-list"></i>
+                                <span class="link_name">Productos</span>
+                            </a>
+                            <i class="fas fa-caret-down arrow"></i>
+                        </div>
+                        <ul class="sub-menu">
+                            <li><a class="link_name" href="#" >Productos</a></li>
+                            <li><a href="AdminProdDisponibles.aspx" >Disponibles</a></li>
+                            <li><a href="#" >Fuera de stock</a></li>
+                            
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="AdminClientes.aspx">
+                            <i class="fas fa-users"></i> 
+                            <span class="link_name">Clientes</span>
+                        </a>
+                        <ul class="sub-menu blank">
+                            <li><a class="link_name" href="#" >Cliente</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <div class="iocn-link">
+                            <a href="#">
+                                <i class="fas fa-id-badge"></i>
+                                <span class="link_name">Empleados</span>
+                            </a>
+                            <i class="fas fa-caret-down arrow"></i>
+                        </div>
+                        <ul class="sub-menu">
+                            <li><a class="link_name" href="#" >Empleados</a></li>
+                            <li><a href="#" >Vendedores</a></li>
+                            <li><a href="#" >Repartidores</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="fas fa-cash-register"></i>
+                            <span class="link_name">Ventas</span>
+                        </a>
+                        <ul class="sub-menu blank">
+                            <li><a class="link_name" href="#" >Ventas</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="far fa-chart-bar"></i>
+                            <span class="link_name">Estadísticas</span>
+                        </a>
+                        <ul class="sub-menu blank">
+                            <li><a class="link_name" href="#" >Estadísticas</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="fas fa-user-alt"></i>
+                            <span class="link_name">Perfil</span>
+                        </a>
+                        <ul class="sub-menu blank">
+                            <li><a class="link_name" href="#" >Perfil</a></li>
+                        </ul>
+                    </li> <br><br>
+                    <li>
+                        <div class="profile-details">
+                            <div class="profile-content">
+                                <img src="../img/profile.jpg" alt="profile">
+                            </div>
+                            
+                            <div class="name-job">
+                                <div class="profile_name">Fulanito</div>
+                                <div class="job">Administrador</div>
+                            </div>
+                            <a href="../index.aspx"><i class="fas fa-sign-out-alt"></i></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script>
+            let arrow = document.querySelectorAll(".arrow");
+            for(var i=0; i<arrow.length;i++){
+                arrow[i].addEventListener("click",(e)=>{ 
+                let arrowParent = e.target.parentElement.parentElement;        
+                arrowParent.classList.toggle("showMenu");
+                });
+            }
+
+            let sidebar = document.querySelector(".sidebar");
+            let sidebarBtn= document.querySelector(".fa-bars");
+            sidebarBtn.addEventListener("click",()=>{
+                sidebar.classList.toggle("close");
+
+            }); 
+    </script>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+</body>
+</html>

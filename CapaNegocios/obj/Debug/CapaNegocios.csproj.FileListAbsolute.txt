@@ -1,0 +1,33 @@
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Documentos\source\repos\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\peruteccc\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\JHORDAN\OneDrive\Escritorio\Desarrollo de Software\PrRemota-PeruTec\PERUTEC\SlnPeruTecWeb\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,42 @@
+﻿.body {
+    background: #B0E3FC;
+    width: 100%;
+    height: 100vh;
+}
+
+.container-primary__ {
+    background: #fff;
+    height: auto;
+    padding: 40px 40px;
+    border-radius: 20px;
+    width: 75%;
+    margin: auto;
+}
+
+.tittle-container-page {
+    padding-top: -30px;
+    margin-top: -30px;
+    text-align: center;
+}
+
+.content-footer_form__ {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: -20px;
+}
+
+@media only screen and (max-width: 770px) {
+    .body {
+        background: #fff;
+    }
+
+    .container-primary__ {
+        width: 100%;
+    }
+
+    .tittle-container-page {
+        padding-top: -50px;
+        margin-top: -50px;
+    }
+}
